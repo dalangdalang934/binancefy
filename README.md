@@ -85,3 +85,4 @@ python zhuanzhang.py
 5. 保持币安现货账户有足够的USDT余额
 6. 转账钱使用1.py来处理返佣数据
 7. 感觉好用的大佬可以给我打赏,来者不拒:0xb707c50f09e667f55e760b0bc4b4777777777777
+8. 联系方式tg:@Oxeeewct 推特:@DaWitThink
